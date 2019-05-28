@@ -1,4 +1,4 @@
-# QR-Code-em-Java
+# QR Code with Webcam - Java
 
 Leia QR Code utilizando a sua Webcam.
 
