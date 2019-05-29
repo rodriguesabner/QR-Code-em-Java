@@ -6,11 +6,14 @@ Leia QR Code utilizando a sua Webcam.
 
 Understand how code deployment works. (The project reads QR Code and Barcode).
 
+Tutorial: https://www.youtube.com/watch?v=9CDaUrjKBIA
+
 ### Prerequisites
 
 ```
-Java 1.8>
+Java 1.8 >
 Netbeans 8.2
+Webcam
 Willpower
 ```
 
